@@ -1,6 +1,7 @@
 # Nädal 2: SQL Cleaning -- UrbanStyle'i andmete uurimine
 
 ## Mida ma tegin
+- Minu roll oli müügiandmete puhastamine (roll A).
 - Lõin sales_test tabeli
 - Uurisin sales_test tabelit SQL päringutega.
 - Selgus, et tabelis on 5116 duplikaatset rida ja 5008 probleemi.
@@ -9,8 +10,9 @@
 - Osalesin meeskonna andmemaastiku koostamisel
 
 ## Peamised õpikohad
-- Õppisin SQL päringute loogikat tundma. 
-- Pea meeles, et päring võib ebaõnnestuda väga väikese asja, kasvõi näiteks puuduva * või ; tõttu!
+- Õppisin SQL cleaning loogikat tundma - alguses tundus keeruline. 
+- Kannatlikkust - kui kohe aru ei saa, puhka välja ja küll hommikul tunduvad asjad loogilisemad.
+- Kasutasin AI-d päringute täpsustamiseks ja järelduste ideede põrgatamiseks. Olen avastanud, et Claude on selleks parim.
 
 ## Failid
 - `week2_sales_cleaning.sql` -- minu SQL päringud
