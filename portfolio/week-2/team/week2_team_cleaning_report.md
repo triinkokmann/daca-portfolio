@@ -1,6 +1,7 @@
 MEESKOND: TOODE |  NÄDAL: 2  |  TEGELANE: Toomas Kask    │
 │                                                              
-│  ANDMEKVALITEEDI KOONDRAPORT                                                                                               │
+│  ANDMEKVALITEEDI KOONDRAPORT  
+│
 │  PEAMISED LEIUD:                                             
 │  1. Triin, müügiandmete puhastaja: leitud 5508 probleemi —  korduvad sale_id väärtused (4018), NULL customer_id (1487), tulevikukuuäpäevad (8) eemaldatud. Alles jäi 988 NULL sales_id ehk külalisostu.    
 │  2. Jörgen, kliendiandmete puhastaja: leitud 513 probleemi — [128 duplikaatset emaili, 380 NULL väärtusega emaili. Erineva formaadiga linnade arv oli 54, update käsklusega uuendades jäi alles 12 erinevat linna.     
