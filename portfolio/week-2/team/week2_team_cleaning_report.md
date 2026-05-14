@@ -16,3 +16,5 @@ MEESKOND: TOODE |  NÄDAL: 2  |  TEGELANE: Toomas Kask    │
 │                                                              
 │  PUUDUVAD ANDMED:                                            
 │  Miinusega summad - kas need on tagastused, sisestusvead, tühistatud ost vms. Tuleks uurida, millega tegemist. Need vajavad eraldi ärireeglite kontrolli. Kas NULL väärtusega kliendiviited ikkagi on kõik külalisostud? 
+
+│  MEESKONNA SLAIDID: https://docs.google.com/presentation/d/1A8KvN7d0f7EDag7m9cagzEe5bE2fw8dw/edit?usp=sharing&ouid=114154652828264470790&rtpof=true&sd=true
