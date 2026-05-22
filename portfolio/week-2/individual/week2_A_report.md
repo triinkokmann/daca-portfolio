@@ -12,6 +12,8 @@
 ## Peamised õpikohad
 - Õppisin SQL cleaning loogikat tundma - alguses tundus keeruline. 
 - Kannatlikkust - kui kohe aru ei saa, puhka välja ja küll hommikul tunduvad asjad loogilisemad.
+
+## Kuidas ma kasutasin AI-d?
 - Kasutasin AI-d päringute täpsustamiseks ja järelduste ideede põrgatamiseks. Olen avastanud, et Claude on selleks parim.
 
 ## Failid
