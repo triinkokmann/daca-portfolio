@@ -62,3 +62,21 @@ FROM toote_jarjestus t
 JOIN kategooria_myyk k ON t.category = k.category
 WHERE t.koht <= 3
 ORDER BY k.müüdud_kogus DESC, t.category, t.koht;
+
+-- Kõige kasumlikumad kategooriad
+SELECT
+    p.category,
+
+    SUM(s.quantity)                                                  AS muudud_kogus,
+    ROUND(SUM(s.total_price), 2)                                     AS kaive,
+    ROUND(SUM(s.quantity * p.cost_price), 2)                         AS kulud,
+    ROUND(SUM(s.total_price) - SUM(s.quantity * p.cost_price), 2)    AS kasum,
+    ROUND(
+        (SUM(s.total_price) - SUM(s.quantity * p.cost_price))
+        / SUM(s.total_price) * 100
+    , 1)                                                             AS marginaal_pct
+
+FROM sales s
+JOIN products p ON p.product_id = s.product_id
+GROUP BY p.category
+ORDER BY kasum DESC;
