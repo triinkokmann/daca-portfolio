@@ -15,3 +15,6 @@
 
 ## Failid
 - `week4_inventuuristatistika_aggregation.sql` -- minu SQL päringud
+
+## Meeskonnatöö
+- https://docs.google.com/presentation/d/1d_Kse5csm-8SxNL4vULd8zEjzDnpZsU9GCmHDmwn1n0/edit?usp=sharing
