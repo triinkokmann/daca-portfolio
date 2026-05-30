@@ -14,6 +14,11 @@
 
 ## Failid
 - `week3-ostudetakliendidB-joins.sql` -- minu SQL päringud
+- `week3_results_kadunud_kliendid_makseviisid.png`
+- `week3_results_kadunud_kliendid_kuud.png`
+- `week3_results_kadunud_kliendid_regamisaeg.png`
+- `week3_results_kadunud_kliendid_linnad.png`
+- `week3_results_kadunud_kliendid.png` -- minu tulemuste screenshotid
 
 ## Meeskonnatöö
 - https://docs.google.com/presentation/d/1_XV9rattaz3KDWFpchCHEJLrqbvXODSJJUfl8Y793Mg/edit?usp=sharing
