@@ -12,4 +12,6 @@ KRISTILE: TOP 5 KOONDNUMBRIT
 │                                                          
 │  SOOVITUS ANNALE:                                        
 │  Analüüsida nõrgemaid perioode ja väiksema käibega kategooriaid, et muuta müügitulemuse  aasta jooksul ühtlasemaks ja vähendada hooajalist kõikumist. Kitsenda liiga laia tooteportfelli, investeeri rohkem hästi müüvatesse tootekategooriatesse.  Ettevõtte käibe peamised vedajad on VIP-segment ning fookus peaks olema nende hoidmisel ja Regular-klientide üleviimisele VIP-tasemele. 
+
+│ Meeskonna slaidid: https://docs.google.com/presentation/d/1d_Kse5csm-8SxNL4vULd8zEjzDnpZsU9GCmHDmwn1n0/edit?usp=sharing
                                                                             
