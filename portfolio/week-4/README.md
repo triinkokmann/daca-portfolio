@@ -1,7 +1,7 @@
 # Nädal 4: SQL Aggregation -- UrbanStyle'i andmete uurimine
 
 ## Mida ma tegin
-- Minu roll sel nädalal uurida analüüsida inventuuristatstikat - analüüsin tootekategooriaid, laoseisu ja müüdud vs laos suhteid. Kasutasin GROUP BY, HAVING ja window funktsioone, et leida probleemsed kategooriad. 
+- Minu roll sel nädalal oli uurida analüüsida inventuuristatstikat - analüüsin tootekategooriaid, laoseisu ja müüdud vs laos suhteid. Kasutasin GROUP BY, HAVING ja window funktsioone, et leida probleemsed kategooriad. 
 - Avastasin, et kõige kasumlikum kategooria on jalanõud, mis moodustab 26,3%-ga üle veerandi ettevõtte kogukäibest. 
 - Kõrgeima kasumimarginaaliga on küll aksessuaarde müük (33,6%), kuid nende müügimaht on võrreldes teistega väike. 
 - Tähelepanu vajavad 12 toodet, mida pole kunagi müüdud. Samuti madala keskmise müügiga naisteriiete kategooria. 
