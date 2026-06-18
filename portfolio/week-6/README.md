@@ -24,4 +24,4 @@
 - `week5_koondraport.md` -- meeskonnatöö koondraport
 
 ## Meeskonnatöö
-- https://docs.google.com/presentation/d/1WJQjI_MESoemuIskkJp-3bl7uqwxKFfhvFuNlfggtp4/edit?usp=sharing -- meeskonna slaidid
+- https://docs.google.com/presentation/d/1yxUbckxenA22lvdZTj7cDzkRZiqxVss4P9S3SuMcmtY/edit?usp=sharing -- meeskonna slaidid
