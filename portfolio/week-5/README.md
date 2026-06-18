@@ -1,4 +1,4 @@
-# Nädal 5: Visualiseerimise disain -- UrbanStyle'i andmete uurimine
+# Nädal 5: Visualiseerimise disain
 
 ## Mida ma tegin
 - Minu roll sel nädalal visualiseerida Power BI-s CEO dashboard.
