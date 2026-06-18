@@ -1,7 +1,7 @@
 MEESKOND: TOODE,  NÄDAL: 5  TEGELASED: Anna Mets, Liis Koppel, Kristi Tamm
 
 KRISTILE: TOP 5 KOONDNUMBRIT                            
-│  1. CEO dashboard, Triin — €857K müügituli                       
+│  1. CEO dashboard, Triin — €857K müügitulu                   
 │  2. Marketing dashboard, Sirja — €2,71 mln on kogukäive                 
 │  3. Operations dashboard, Jörgen  — 377K laovaru
 │  4. Investor dashboard, Tuuli — 19% kasvab Urbanstyle aastas            
