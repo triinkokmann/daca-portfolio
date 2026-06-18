@@ -1,25 +1,16 @@
-## MEESKOND: TOODE | NÄDAL: 6 | TEGELANE: Anna Mets
+## MEESKOND: TOODE |  NÄDAL: 3  |  TEGELANE: Anna Mets   │
 
-## PEAMISED LEIUD:
-1. Tuuli (Tallinn): Tallinn domineerib käibelt — rekordiline €1,09M, 
-   kasv tugev, kuid hooajalisus vajab aktiivset juhtimist.
-2. Triin (Tartu): Tartu müügitulu kasvab, kuid turuosa on vähenenud 
-   5% võrreldes 2023. aastaga — online kasvab võrreldes Tartuga palju kiiremini (38% vs 13%)
-   poodi, 40% klientidest on registreerimata.
-3. Sirja (Pärnu): Suve käive ületab talvekäivet 62%, august on aasta 
-   tugevaim müügikuu — hooajaline kontsentratsioon on äärmuslik.
-4. Jörgen (Online): E-pood on UrbanStyle'i kõige kiiremini kasvav 
-   kanal — käive kasvas 40%, ületades kõiki füüsilisi kauplusi.
+##  PEAMISED LEIUD:                                             
+1. Tuuli: Tundmatu lojaalsusprogrammiga kliendid moodustavad ca kaks korda suurema kogumüügi võrreldes teiste tasemetega, mida tasuks rohkem uurida.   
+2. Triin: Paljud kadunud kliendid on juba aastast 2020, ligi iga viies klient on kadunud.  Segmenteerida ja sihtida kampaaniatega eraldi gruppe. Samas puuduvad andmed, kas GDPR lubab vanemaid kliente püüda.    
+3. Jörgen: Tooted, mida pole müüdud: 12. Tellida juurde tooteid, mille laoseis on madal. Pakkuda suurt allahindlust toodetele, mida pole müüdud või eemaldada.
+4. Sirja: Füüsilised kauplused annavad ettevõtte peamise müügitulu, samuti on keskmine müük kliendi kohta suurem. Soovitus kasvatada online-kanali nähtavust väiksemates piirkondades.   
 
-## SUURIM ÜLLATUS:
-E-pood kasvas 40% — kiiremini kui ükski füüsiline kauplus. Online 
-ei ole enam lisaäri, vaid peamine kasvumootor.
+## SUURIM ÜLLATUS:                                             
+Poe kliendid teevad rohkem korduvoste. Ligi iga viies klient on kadunud klient. 
 
-## MILLINE OTSUS MUUTUKS?
-Investeerida e-poodi ja Tallinnasse — need kaks juhivad kasvu. 
-Tartule luua regioonipõhine lojaalsusprogramm turuosa languse 
-peatamiseks. Pärnu hooajalist tugevust kasutada suvekollektsioonide 
-varajase turuletoomisega kevadel.                                                                   
+## MILLINE OTSUS MUUTUKS?                                         
+Suunata suuremad investeeringud Tallinna ja Tartu kauplustesse, kasvatada online kanalite nähtavust väiksemates kohtades. Planeerida segmentidele sihitud kampaaniaid kadunud klientide tagasivõitmiseks.
 
 ## MEESKONNA SLAIDID:
-https://docs.google.com/presentation/d/1yxUbckxenA22lvdZTj7cDzkRZiqxVss4P9S3SuMcmtY/edit?usp=sharing
+https://docs.google.com/presentation/d/1_XV9rattaz3KDWFpchCHEJLrqbvXODSJJUfl8Y793Mg/edit?usp=sharing
