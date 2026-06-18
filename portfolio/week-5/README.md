@@ -1,4 +1,4 @@
-# Nädal 5: Visualiseerimise disain
+# Nädal 5: Visualiseerimise disain 
 
 ## Mida ma tegin
 - Minu roll sel nädalal visualiseerida Power BI-s CEO dashboard.
