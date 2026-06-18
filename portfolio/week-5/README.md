@@ -13,13 +13,14 @@
 - Kasutasin Claude'i juhendite tõlgendamiseks ja Power BI kasutamiseks, enamasti suhteliselt edukalt.
 - Lisaks kasutasin Power BI juhiste jaoks YouTube'i.
 
-## Individuaalsed failid
+## Individuaalsed failid /individual
 - `Urbanstyle_week5_dashboard_Triin.pbix` -- minu dashboard Power BI-s
 - `urbanstyle_week5_dashboard_sceenshot.png` -- minu dashboardi screenshot
 - `week5_ceo.sql` -- minu SQL päringud
 - `week5_disainiotsus.md` -- minu disainiotsuse kirjeldus
 
-## Tiimifailid
+## Tiimifailid /team
+- `week5_koondraport.md` -- meeskonnatöö koondraport
 
 ## Meeskonnatöö
 - https://docs.google.com/presentation/d/1WJQjI_MESoemuIskkJp-3bl7uqwxKFfhvFuNlfggtp4/edit?usp=sharing -- meeskonna slaidid
