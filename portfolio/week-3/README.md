@@ -12,7 +12,7 @@
 - Õppisin, kuidas ühendada JOINide abil tabeleid ja kuivõrd efektiivne see olla võib.
 - Sel nädalal sain palju turunduse vaatevinklist asju analüüsida ja see oli väga põnev!
 
-## Failid
+## Individuaalsed failid /individual
 - `week3-ostudetakliendidB-joins.sql` -- minu SQL päringud
 - `week3_results_kadunud_kliendid_makseviisid.png`
 - `week3_results_kadunud_kliendid_kuud.png`
@@ -20,5 +20,8 @@
 - `week3_results_kadunud_kliendid_linnad.png`
 - `week3_results_kadunud_kliendid.png` -- minu tulemuste screenshotid
 
+## Tiimifailid /team
+- `week3_team_joins_report.md` -- tiimi koondraport
+
 ## Meeskonnatöö
-- https://docs.google.com/presentation/d/1_XV9rattaz3KDWFpchCHEJLrqbvXODSJJUfl8Y793Mg/edit?usp=sharing
+- https://docs.google.com/presentation/d/1_XV9rattaz3KDWFpchCHEJLrqbvXODSJJUfl8Y793Mg/edit?usp=sharing -- meeskonna slaidid
