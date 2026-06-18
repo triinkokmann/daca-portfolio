@@ -4,7 +4,7 @@
 1. Tuuli (Tallinn): Tallinn domineerib käibelt — rekordiline €1,09M, 
    kasv tugev, kuid hooajalisus vajab aktiivset juhtimist.
 2. Triin (Tartu): Tartu müügitulu kasvab, kuid turuosa on vähenenud 
-   5% võrreldes 2023. aastaga — online kasv kannibaliseerib füüsilist 
+   5% võrreldes 2023. aastaga — online kasvab võrreldes Tartuga palju kiiremini (38% vs 13%)
    poodi, 40% klientidest on registreerimata.
 3. Sirja (Pärnu): Suve käive ületab talvekäivet 62%, august on aasta 
    tugevaim müügikuu — hooajaline kontsentratsioon on äärmuslik.
@@ -22,4 +22,4 @@ peatamiseks. Pärnu hooajalist tugevust kasutada suvekollektsioonide
 varajase turuletoomisega kevadel.                                                                   
 
 ## MEESKONNA SLAIDID:
--- https://docs.google.com/presentation/d/1_XV9rattaz3KDWFpchCHEJLrqbvXODSJJUfl8Y793Mg/edit?usp=sharing
+https://docs.google.com/presentation/d/1yxUbckxenA22lvdZTj7cDzkRZiqxVss4P9S3SuMcmtY/edit?usp=sharing
