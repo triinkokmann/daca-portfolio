@@ -13,8 +13,11 @@
 - Arendasin ärilist mõtlemist, kuidas oma andmete illustreerimiseks kasutada diagramme. Valisin õige diagrammi - tulpdiagrammi koos tootekategooriate käibe, kulude ja kasumi illustreerimiseks ning joondiagrammi kasumimarginaali lisamiseks. 
 - Kasutasin oma sisendi põhjal Claude'i diagrammi visualiseerimiseks, samuti pikemate päringute kirjutamise ja ülevaatamise abistamiseks ning kvaliteedikontrolliks. 
 
-## Failid
+## Individuaalsed failid /individual
 - `week4_inventuuristatistika_aggregation.sql` -- minu SQL päringud
+
+## Tiimifailid /team
+- `week4_team_aggregation_report.md` -- tiimi koondraport
 
 ## Meeskonnatöö
 - https://docs.google.com/presentation/d/1d_Kse5csm-8SxNL4vULd8zEjzDnpZsU9GCmHDmwn1n0/edit?usp=sharing
