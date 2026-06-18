@@ -15,13 +15,12 @@
 - Kasutasin taas Claude'i ja mõneti ka ChatGPT'd juhendite tõlgendamiseks ja Power BI kasutamiseks. Põrgatasin pisut ka äritõlgendusi.
 
 ## Individuaalsed failid /individual
-- `Urbanstyle_week5_dashboard_Triin.pbix` -- minu dashboard Power BI-s
-- `urbanstyle_week5_dashboard_sceenshot.png` -- minu dashboardi screenshot
-- `week5_ceo.sql` -- minu SQL päringud
-- `week5_disainiotsus.md` -- minu disainiotsuse kirjeldus
+- `week6_Tartu_dashboard_screenshot.png` -- minu dashboard Power BI-s
+- `week6_Tartu_narrative.md` -- minu narratiiv
+- `week6_executive_summary.md` -- minu executive summary
 
 ## Tiimifailid /team
-- `week5_koondraport.md` -- meeskonnatöö koondraport
+- `week6_team_combined_view.md` -- meeskonnatöö koondraport
 
 ## Meeskonnatöö
 - https://docs.google.com/presentation/d/1yxUbckxenA22lvdZTj7cDzkRZiqxVss4P9S3SuMcmtY/edit?usp=sharing -- meeskonna slaidid
