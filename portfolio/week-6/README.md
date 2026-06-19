@@ -2,7 +2,7 @@
 
 ## Mida ma tegin
 - Meie meeskond analüüsis UrbanStyle'i (US) nelja asukohta. 
-- Minu roll sel nädalal analüüsida ja visualiseerida US Tartu kaupluse dashboardi ja narratiivi.
+- Minu roll sel nädalal oli analüüsida ja visualiseerida US Tartu kaupluse dashboardi ja narratiivi.
 - Ühise otsusena grupis otsustasime taas visualiseerimiseks kasutada US andmeid perioodil 2023-2024, kuna 2025. ja 2026. aasta andmed on ebatäielikud ja moonutaksid ebamõistlikult negatiivselt UrbanStyle'i likviidsust. 
 - Lõin KPI kaardid, mis näitavad, kui palju US valitud perioodil müügitulu teenis, mitu klienti neil perioodi lõpuks oli ning kui suur oli kasv.
 - Joondiagrammile visualiseerisin US-i perioodi müügitulu trendi, mis näitab selgelt kuude kaupa kasvu.
