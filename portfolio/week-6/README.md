@@ -15,7 +15,8 @@
 - Kasutasin taas Claude'i ja mõneti ka ChatGPT'd juhendite tõlgendamiseks ja Power BI kasutamiseks. Põrgatasin pisut ka äritõlgendusi.
 
 ## Individuaalsed failid /individual
-- `week6_Tartu_dashboard_screenshot.png` -- minu dashboard Power BI-s
+- `Urbanstyle_week6_dashboard_Triin.pbix` -- minu dashboard Power BI-s
+- `week6_Tartu_dashboard_screenshot.png` -- minu dashboardi screenshot
 - `week6_Tartu_narrative.md` -- minu narratiiv
 - `week6_executive_summary.md` -- minu executive summary
 
