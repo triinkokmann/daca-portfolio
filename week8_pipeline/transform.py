@@ -9,7 +9,7 @@ import logging
 import pandas as pd
 
 # 1. Import data_fetcher funktsioonid 
-from data_fetcher import fetch_sales, fetch_customers, fetch_products
+from week8_pipeline.data_fetcher import fetch_sales, fetch_customers, fetch_products
 
 # 2. Setup et näeks laadimisprotsessi 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")

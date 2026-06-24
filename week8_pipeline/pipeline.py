@@ -23,7 +23,7 @@ with open("config.yaml", "r", encoding="utf-8") as f:
 # Roll A moodul — andmete pärimine Supabase API-st.
 # DEFAULT_START_DATE ja DEFAULT_END_DATE on meeskonna kokkulepe:
 # kasutame 2023-2024 andmeid, sest need aastad on baasis terviklikud.
-from data_fetcher import (
+from week8_pipeline.data_fetcher import (
     fetch_sales, fetch_customers, fetch_products,
     DEFAULT_START_DATE, DEFAULT_END_DATE
 )
@@ -31,7 +31,7 @@ from data_fetcher import (
 # Roll B moodul — andmete puhastamine ja koondamine.
 # calculate_weekly_aggregates kasutame B versioonist Transform etapis,
 # sest seal on veergude nimed ühtsed teiste B funktsioonidega.
-from transform import (
+from week8_pipeline.transform import (
     clean_data, calculate_weekly_aggregates,
     calculate_kpis, merge_datasets
 )
@@ -40,7 +40,7 @@ from transform import (
 # weekly_for_chart on C-spetsiifiline versioon nädalate koondamisest,
 # mis kasutab veerunimesid 'week' ja 'revenue' — Plotly ootab just neid.
 # Sellepärast impordi alias'ega, et mitte segamini ajada B versiooniga.
-from visualize_export import (
+from week8_pipeline.visualize_export import (
     calculate_weekly_aggregates as weekly_for_chart,
     create_weekly_chart, create_kpi_summary,
     export_results, export_charts
