@@ -24,4 +24,4 @@
 - `week1_meeskonna_koondraport` -- tiimi koondraport
 
 ## Meeskonnatöö
-- https://docs.google.com/presentation/d/1dy4WZY9-amFs1SLXhjyp3hn9sgC6R1XiVZKb0keOdTw/edit?slide=id.g3ddb8b9f226_0_140#slide=id.g3ddb8b9f226_0_140
+- https://docs.google.com/presentation/d/1dy4WZY9-amFs1SLXhjyp3hn9sgC6R1XiVZKb0keOdTw/edit?usp=sharing
