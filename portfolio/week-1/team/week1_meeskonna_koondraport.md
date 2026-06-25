@@ -3,7 +3,7 @@
 ## Kokkuvõte
 - Sales (tehingud), Jörgen: 15234 rida, 12 veergu, ~10% klientidest ei ole registreerinud kliendisüsteemi
 - Customers (kliendiandmed), Sirja: 3150 rida, 9 veergu, kliendibaas väiksem, kui arvati, kontaktandmeid puudu
--- Products (tooteandmed), Tuuli: [362 rida, 9 veergu, valikus on kõige rohkem tooteid meestele, teistele sihtrühmadele on ca 10% vähem valikut ]
+   Products (tooteandmed), Tuuli: [362 rida, 9 veergu, valikus on kõige rohkem tooteid meestele, teistele sihtrühmadele on ca 10% vähem valikut ]
 - Sales (kanalid/asukohad), Triin: poed ja online, poed Tallinnas, Tartus, Pärnus, peamine leid: UrbanStyle’i müük on kahekanaliline ning e-pood mängib ettevõtte käibes olulist rolli, kuigi füüsilised poed moodustavad suurema osa tehingutest. SUURIM ÜLLATUS: Suur osa kliendibaasist on kättesaamatu. 
 
 ## SOOVITUS TOOMASELE:
