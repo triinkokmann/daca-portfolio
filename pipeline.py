@@ -52,7 +52,7 @@ from transform import (
 # weekly_for_chart on C-spetsiifiline versioon nädalate koondamisest,
 # mis kasutab veerunimesid 'week' ja 'revenue' — Plotly ootab just neid.
 # Sellepärast impordi alias'ega, et mitte segamini ajada B versiooniga.
-from visualize_export import (
+from visualize_export_esialgne import (
     calculate_weekly_aggregates as weekly_for_chart,
     create_weekly_chart, create_kpi_summary,
     export_results, export_charts

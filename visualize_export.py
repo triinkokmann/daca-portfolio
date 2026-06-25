@@ -327,3 +327,29 @@ def business_summary(rfm: pd.DataFrame) -> str:
         f"At Risk segmenti kuulub {len(at_risk)} klienti, Lost segmenti {len(lost)} klienti, "
         f"ja Potential segmenti {len(potential)} klienti, keda saab sihitud pakkumistega kasvatada."
     )
+
+
+if __name__ == "__main__":
+    # See plokk käivitub AINULT siis, kui faili jooksutatakse otse
+    # (python visualize_export.py). Loob näidisandmed ja kutsub
+    # peamised funktsioonid välja, et tulemust kohe näha (output/ kausta).
+    print("Käivitan visualize_export.py näidisandmetega...")
+
+    sample_sales = pd.DataFrame({
+        "sale_date": pd.date_range("2024-01-01", periods=30),
+        "invoice_id": range(1000, 1030),
+        "total_price": [100 + i * 5 for i in range(30)],
+    })
+
+    df_weekly = calculate_weekly_aggregates(sample_sales)
+    fig_weekly = create_weekly_chart(df_weekly)
+
+    sample_kpis = {
+        "total_revenue": float(sample_sales["total_price"].sum()),
+        "unique_customers": 12,
+        "avg_order_value": float(sample_sales["total_price"].mean()),
+    }
+    fig_kpi = create_kpi_summary(sample_kpis)
+
+    saved = export_charts({"weekly_revenue": fig_weekly, "kpi_summary": fig_kpi})
+    print(f"Valmis! Diagrammid salvestatud: {saved}")
