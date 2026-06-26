@@ -11,6 +11,7 @@ failis; pipeline.py jääb samaks.
 
 import logging
 import os
+import sys
 import time
 from datetime import datetime
 
@@ -244,5 +245,6 @@ if __name__ == "__main__":
         # logger.exception lisab automaatselt täieliku traceback'i logi,
         # mis aitab hiljem täpselt välja selgitada, kus viga tekkis.
         logger.exception("Pipeline crash")
+        sys.exit(1)
 
     print("=" * 55)

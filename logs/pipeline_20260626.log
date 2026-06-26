@@ -182,3 +182,49 @@
 2026-06-26 12:09:53,120 - INFO - Diagramm salvestatud: output/kpi_summary_20260626_120953.html
 2026-06-26 12:09:53,120 - INFO - HTML diagrammid salvestatud: ['output/weekly_revenue_20260626_120953.html', 'output/kpi_summary_20260626_120953.html']
 2026-06-26 12:09:53,120 - INFO - Export OK (0.1s)
+2026-06-26 12:18:20,904 - INFO - === ETAPP 1: EXTRACT (periood 2023-01-01 kuni 2024-12-31) ===
+2026-06-26 12:18:21,641 - INFO - HTTP Request: GET https://eocuprgglufoalmnphvi.supabase.co/rest/v1/sales?select=%2A&sale_date=gte.2023-01-01&sale_date=lte.2024-12-31&offset=0&limit=1000 "HTTP/2 200 OK"
+2026-06-26 12:18:21,683 - INFO - Tabel sales: laetud read 0-999, saadi 1000 rida
+2026-06-26 12:18:21,747 - INFO - HTTP Request: GET https://eocuprgglufoalmnphvi.supabase.co/rest/v1/sales?select=%2A&sale_date=gte.2023-01-01&sale_date=lte.2024-12-31&offset=1000&limit=1000 "HTTP/2 200 OK"
+2026-06-26 12:18:21,771 - INFO - Tabel sales: laetud read 1000-1999, saadi 1000 rida
+2026-06-26 12:18:21,831 - INFO - HTTP Request: GET https://eocuprgglufoalmnphvi.supabase.co/rest/v1/sales?select=%2A&sale_date=gte.2023-01-01&sale_date=lte.2024-12-31&offset=2000&limit=1000 "HTTP/2 200 OK"
+2026-06-26 12:18:21,860 - INFO - Tabel sales: laetud read 2000-2999, saadi 1000 rida
+2026-06-26 12:18:21,926 - INFO - HTTP Request: GET https://eocuprgglufoalmnphvi.supabase.co/rest/v1/sales?select=%2A&sale_date=gte.2023-01-01&sale_date=lte.2024-12-31&offset=3000&limit=1000 "HTTP/2 200 OK"
+2026-06-26 12:18:21,941 - INFO - Tabel sales: laetud read 3000-3999, saadi 1000 rida
+2026-06-26 12:18:22,002 - INFO - HTTP Request: GET https://eocuprgglufoalmnphvi.supabase.co/rest/v1/sales?select=%2A&sale_date=gte.2023-01-01&sale_date=lte.2024-12-31&offset=4000&limit=1000 "HTTP/2 200 OK"
+2026-06-26 12:18:22,020 - INFO - Tabel sales: laetud read 4000-4999, saadi 1000 rida
+2026-06-26 12:18:22,082 - INFO - HTTP Request: GET https://eocuprgglufoalmnphvi.supabase.co/rest/v1/sales?select=%2A&sale_date=gte.2023-01-01&sale_date=lte.2024-12-31&offset=5000&limit=1000 "HTTP/2 200 OK"
+2026-06-26 12:18:22,106 - INFO - Tabel sales: laetud read 5000-5999, saadi 1000 rida
+2026-06-26 12:18:22,166 - INFO - HTTP Request: GET https://eocuprgglufoalmnphvi.supabase.co/rest/v1/sales?select=%2A&sale_date=gte.2023-01-01&sale_date=lte.2024-12-31&offset=6000&limit=1000 "HTTP/2 200 OK"
+2026-06-26 12:18:22,186 - INFO - Tabel sales: laetud read 6000-6999, saadi 1000 rida
+2026-06-26 12:18:22,248 - INFO - HTTP Request: GET https://eocuprgglufoalmnphvi.supabase.co/rest/v1/sales?select=%2A&sale_date=gte.2023-01-01&sale_date=lte.2024-12-31&offset=7000&limit=1000 "HTTP/2 200 OK"
+2026-06-26 12:18:22,279 - INFO - Tabel sales: laetud read 7000-7999, saadi 1000 rida
+2026-06-26 12:18:22,343 - INFO - HTTP Request: GET https://eocuprgglufoalmnphvi.supabase.co/rest/v1/sales?select=%2A&sale_date=gte.2023-01-01&sale_date=lte.2024-12-31&offset=8000&limit=1000 "HTTP/2 200 OK"
+2026-06-26 12:18:22,372 - INFO - Tabel sales: laetud read 8000-8999, saadi 1000 rida
+2026-06-26 12:18:22,435 - INFO - HTTP Request: GET https://eocuprgglufoalmnphvi.supabase.co/rest/v1/sales?select=%2A&sale_date=gte.2023-01-01&sale_date=lte.2024-12-31&offset=9000&limit=1000 "HTTP/2 200 OK"
+2026-06-26 12:18:22,449 - INFO - Tabel sales: laetud read 9000-9999, saadi 411 rida
+2026-06-26 12:18:22,578 - INFO - HTTP Request: GET https://eocuprgglufoalmnphvi.supabase.co/rest/v1/customers?select=%2A&offset=0&limit=1000 "HTTP/2 200 OK"
+2026-06-26 12:18:22,593 - INFO - Tabel customers: laetud read 0-999, saadi 1000 rida
+2026-06-26 12:18:22,685 - INFO - HTTP Request: GET https://eocuprgglufoalmnphvi.supabase.co/rest/v1/customers?select=%2A&offset=1000&limit=1000 "HTTP/2 200 OK"
+2026-06-26 12:18:22,696 - INFO - Tabel customers: laetud read 1000-1999, saadi 1000 rida
+2026-06-26 12:18:22,764 - INFO - HTTP Request: GET https://eocuprgglufoalmnphvi.supabase.co/rest/v1/customers?select=%2A&offset=2000&limit=1000 "HTTP/2 200 OK"
+2026-06-26 12:18:22,782 - INFO - Tabel customers: laetud read 2000-2999, saadi 1000 rida
+2026-06-26 12:18:22,835 - INFO - HTTP Request: GET https://eocuprgglufoalmnphvi.supabase.co/rest/v1/customers?select=%2A&offset=3000&limit=1000 "HTTP/2 200 OK"
+2026-06-26 12:18:22,840 - INFO - Tabel customers: laetud read 3000-3999, saadi 150 rida
+2026-06-26 12:18:22,973 - INFO - HTTP Request: GET https://eocuprgglufoalmnphvi.supabase.co/rest/v1/products?select=%2A&offset=0&limit=1000 "HTTP/2 200 OK"
+2026-06-26 12:18:22,981 - INFO - Tabel products: laetud read 0-999, saadi 362 rida
+2026-06-26 12:18:22,982 - INFO - Extract OK — müük: 9411 rida, kliendid: 3150, tooted: 362 (2.1s)
+2026-06-26 12:18:22,982 - INFO - === ETAPP 2: TRANSFORM ===
+2026-06-26 12:18:23,029 - INFO - Puhastamine OK — duplikaadid eemaldatud
+2026-06-26 12:18:23,072 - INFO - Nädalakoondandmed OK — 105 nädalat
+2026-06-26 12:18:23,073 - INFO - KPI-d OK — käive: 2691235.81 EUR, kliente: 2464, AOV: 287.80 EUR
+2026-06-26 12:18:23,078 - INFO - Liitmine OK — 9351 rida, 20 veergu (0.1s)
+2026-06-26 12:18:23,078 - INFO - === ETAPP 3: VISUALIZE ===
+2026-06-26 12:18:23,704 - INFO - Diagrammid loodud (0.6s)
+2026-06-26 12:18:23,704 - INFO - === ETAPP 4: EXPORT ===
+2026-06-26 12:18:23,744 - INFO - Eksporditud 9351 rida faili output/pipeline_results_20260626_121823.csv
+2026-06-26 12:18:23,744 - INFO - CSV salvestatud: output/pipeline_results_20260626_121823.csv
+2026-06-26 12:18:23,786 - INFO - Diagramm salvestatud: output/weekly_revenue_20260626_121823.html
+2026-06-26 12:18:23,806 - INFO - Diagramm salvestatud: output/kpi_summary_20260626_121823.html
+2026-06-26 12:18:23,806 - INFO - HTML diagrammid salvestatud: ['output/weekly_revenue_20260626_121823.html', 'output/kpi_summary_20260626_121823.html']
+2026-06-26 12:18:23,806 - INFO - Export OK (0.1s)
