@@ -1,8 +1,0 @@
-customer_id,last_purchase,frequency,monetary,nimi,recency_days,segment
-1001,2024-05-24,4,532.29,Juri,69,VIP
-1002,2024-06-23,4,370.5,Kati,39,VIP
-1003,2024-07-13,4,292.5,Maris,19,Loyal
-1004,2024-06-13,3,477.0,Peeter,49,VIP
-1005,2024-07-23,3,291.5,Liina,9,Loyal
-1006,2024-06-03,1,37.0,Andres,59,Regular
-1007,2024-07-03,1,65.0,Tiina,29,Regular

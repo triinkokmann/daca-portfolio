@@ -1,9 +1,9 @@
 """
 Roll D: Automation Script (pipeline.py)
-Orkestreeib Extract -> Transform -> Visualize -> Export
+Orkestreerib Extract -> Transform -> Visualize -> Export
 ühe käsuga: python pipeline.py
 
-See fail on meeskonna pipeline'i orkestreeija — ta ise ei sisalda
+See fail on meeskonna pipeline'i orkestreerija — ta ise ei sisalda
 äriloogikat, vaid kutsub õiges järjekorras välja rollide A, B ja C
 funktsioonid. Kui mõni etapp muutub, piisab muudatusest vastava rolli
 failis; pipeline.py jääb samaks.
