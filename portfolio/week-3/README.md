@@ -13,7 +13,7 @@
 - Ühendasin 3 tabelit: `sales`, `customers` ja `products`
 
 ## Individuaalsed failid
-- [Minu SQL päringud](individual/week3-ostudeta_kliendid_B-joins.sql)
+- [Minu SQL päringud](portfolio/week-3/individual/week3-ostudeta_kliendid_B-joins.sql)
 - [Kadunud klientide makseviisid](individual/week3_results_kadunud_kliendid_makseviisid.png)
 - [Kadunud kliendid kuude lõikes](individual/week3_results_kadunud_kliendid_kuud.png)
 - [Kadunud kliendid registreerimisaja järgi](individual/week3_results_kadunud_kliendid_regamisaeg.png)
