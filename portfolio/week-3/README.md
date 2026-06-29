@@ -9,7 +9,7 @@
 - Osalesin meeskonna andmemaastiku koostamisel
 
 ## Peamised õpikohad
-- Õppisin INNER JOIN, LEFT JOIN, RIGHT JOIN süntaksit ✅
+- Õppisin INNER JOIN, LEFT JOIN, RIGHT JOIN süntaksit 
 - Ühendasin 3 tabelit: `sales`, `customers` ja `products`
 
 ## Individuaalsed failid
