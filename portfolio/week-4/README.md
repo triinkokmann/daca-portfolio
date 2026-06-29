@@ -1,4 +1,4 @@
-# Nädal 4: SQL Aggregation -- UrbanStyle'i andmete uurimine
+# Nädal 4: SQL agregatsioonid
 
 ## Mida ma tegin
 - Minu roll sel nädalal oli uurida analüüsida inventuuristatstikat - analüüsin tootekategooriaid, laoseisu ja müüdud vs laos suhteid. Kasutasin GROUP BY, HAVING ja window funktsioone, et leida probleemsed kategooriad. 
@@ -10,14 +10,14 @@
 
 
 ## Peamised õpikohad / kuidas kasutasin AI-d
-- Arendasin ärilist mõtlemist, kuidas oma andmete illustreerimiseks kasutada diagramme. Valisin õige diagrammi - tulpdiagrammi koos tootekategooriate käibe, kulude ja kasumi illustreerimiseks ning joondiagrammi kasumimarginaali lisamiseks. 
+- Arendasin ärilist mõtlemist, kuidas oma andmete illustreerimiseks kasutada diagramme. Valisin õige diagrammi - tulpdiagrammi koos tootekategooriate käibe, kulude ja kasumi illustreerimiseks ning joondiagrammi kasumimarginaali lisamiseks.
+- Kasutasin GROUP BY, HAVING, COUNT, SUM, AVG, CTE päringuid 
+- Arvutasin KPI-d ja tegin varude auditi: tuvastatud ~40 anomaaliat 
 - Kasutasin oma sisendi põhjal Claude'i diagrammi visualiseerimiseks, samuti pikemate päringute kirjutamise ja ülevaatamise abistamiseks ning kvaliteedikontrolliks. 
 
 ## Individuaalsed failid /individual
-- `week4_inventuuristatistika_aggregation.sql` -- minu SQL päringud
+- [Minu SQL päringud](week4_inventuuristatistika_aggregation.sql)
 
-## Tiimifailid /team
-- `week4_team_aggregation_report.md` -- tiimi koondraport
-
-## Meeskonnatöö
-- https://docs.google.com/presentation/d/1d_Kse5csm-8SxNL4vULd8zEjzDnpZsU9GCmHDmwn1n0/edit?usp=sharing
+## Tiimifailid
+- [Tiimi koondraport](week4_team_aggregation_report.md)
+- [Meeskonnatöö slaidid](https://docs.google.com/presentation/d/1d_Kse5csm-8SxNL4vULd8zEjzDnpZsU9GCmHDmwn1n0/edit?usp=sharing)

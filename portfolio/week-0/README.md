@@ -17,6 +17,6 @@ Roll C: NotbookLMi seadistaja. Lõin meeskonna ühine NotebookLM notebooki, laad
    UrbanStyle andmeanalüüsi tiimi eesmärk on aidata ettevõttel teha andmepõhiseid otsuseid, analüüsides müügi-, kliendi- ja turundusandmeid, et parandada kasvu ja kasumlikkust.
 
 ## Failid
-- `individual/setup_screenshot.png` -- isikliku keskkonna screenshot
-- `team/week0_team_summary.md` -- viide meeskonnatööle
-- [`charter.md`](https://github.com/sirja-hass/urbanstyle-toode/blob/b6ecd73bd64c2a39f52ecdbf207bbbd7f57cbe88/charter.md) -- team charter
+- [Isikliku keskkonna kuvatõmmis](individual/setup_screenshot.png)
+- [Meeskonna 0. nädala kokkuvõte](team/week0_team_summary.md)
+- [UrbanStyle'i meeskonna repo](https://github.com/sirja-hass/urbanstyle-toode)
