@@ -1,4 +1,4 @@
-# Nädal 6: Visualiseerimise admned
+# Nädal 6: visualiseerimise andmelugu
 
 ## Mida ma tegin
 - Meie meeskond analüüsis UrbanStyle'i (US) nelja asukohta. 
@@ -8,20 +8,17 @@
 - Joondiagrammile visualiseerisin US-i perioodi müügitulu trendi, mis näitab selgelt kuude kaupa kasvu.
 - Lisasin ka sliceri, kust CEO saab soovitud perioodi kohta andmeid vaadata, et muuta graafik interaktiivsemaks. 
 
-
 ## Peamised õpikohad / kuidas kasutasin AI-d
 - Arendasin teadmisi ja oskusi Power BI kasutamisel. Suutsin meelde jätta, kust miskit muuta saab.
 - Eriliseks proovikiviks said KPI kaartide visualiseerimised - iga väike raam ja taust tulevad eri kohtadest. Murdsin läbi!
 - Kasutasin taas Claude'i ja mõneti ka ChatGPT'd juhendite tõlgendamiseks ja Power BI kasutamiseks. Põrgatasin pisut ka äritõlgendusi.
 
-## Individuaalsed failid /individual
-- `Urbanstyle_week6_dashboard_Triin.pbix` -- minu dashboard Power BI-s
-- `week6_Tartu_dashboard_screenshot.png` -- minu dashboardi screenshot
-- `week6_Tartu_narrative.md` -- minu narratiiv
-- `week6_executive_summary.md` -- minu executive summary
+## Individuaalsed failid
+- [Minu dashboardi Poer BI fail](Urbanstyle_week6_dashboard_Triin.pbix)
+- [Minu dashboardi screenshot](week6_Tartu_dashboard_screenshot.png)
+- [Minu narratiiv](week6_Tartu_narrative.md)
+- [Minu executive summary](week6_executive_summary.md)
 
-## Tiimifailid /team
-- `week6_team_combined_view.md` -- meeskonnatöö koondraport
-
-## Meeskonnatöö
-- https://docs.google.com/presentation/d/1yxUbckxenA22lvdZTj7cDzkRZiqxVss4P9S3SuMcmtY/edit?usp=sharing -- meeskonna slaidid
+## Tiimifailid
+- [Tiimi koondraport](week6_team_combined_view.md)
+- [Meeskonnatöö slaidid(https://docs.google.com/presentation/d/1yxUbckxenA22lvdZTj7cDzkRZiqxVss4P9S3SuMcmtY/edit?usp=sharing)
