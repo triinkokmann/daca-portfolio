@@ -1,1 +1,12 @@
 .env
+# Süsteemifailid
+.DS_Store
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Genereeritud väljund
+logs/
+output/
