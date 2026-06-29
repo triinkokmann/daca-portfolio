@@ -10,18 +10,18 @@
 - Uurisin UrbanStyle'i sales tabelit: tuvastatud duplikaadid ja puuduvad väärtused IS NULL abil
 
 ## Individuaalsed failid
-- [week1_sales_exploration.sql](individual/week1_sales_exploration.sql) — minu SQL päringud
-- [week1_results_screenshot_ylevaade.png](individual/week1_results_screenshot_ylevaade.png)
-- [week1_results_screenshot_puuduv_asukoht.png](individual/week1_results_screenshot_puuduv_asukoht.png)
-- [week1_results_screenshot_online_myygid.png](individual/week1_results_screenshot_online_myygid.png)
-- [week1_results_screenshot_makseviisid.png](individual/week1_results_screenshot_makseviisid.png)
-- [week1_results_screenshot_asukohad.png](individual/week1_results_screenshot_asukohad.png)
-- [week1_results_screenshot_kanalid.png](individual/week1_results_screenshot_kanalid.png)
-- [week1_results_screenshot_pood_tehingud.png](individual/week1_results_screenshot_pood_tehingud.png)
-- [week1_results_screenshot_online_tehingud.png](individual/week1_results_screenshot_online_tehingud.png) — tulemuste pildid
+- [SQL päringud](individual/week1_sales_exploration.sql)
+- [Ülevaade](individual/week1_results_screenshot_ylevaade.png)
+- [Puuduv asukoht](individual/week1_results_screenshot_puuduv_asukoht.png)
+- [Online müügid](individual/week1_results_screenshot_online_myygid.png)
+- [Makseviisid](individual/week1_results_screenshot_makseviisid.png)
+- [Asukohad](individual/week1_results_screenshot_asukohad.png)
+- [Kanalid](individual/week1_results_screenshot_kanalid.png)
+- [Poe tehingud](individual/week1_results_screenshot_pood_tehingud.png)
+- [Online tehingud](individual/week1_results_screenshot_online_tehingud.png)
 
 ## Tiimifailid
-- [week1_meeskonna_koondraport](team/week1_meeskonna_koondraport) — tiimi koondraport
+- [Tiimi koondraport](team/week1_meeskonna_koondraport)
 
 ## Meeskonnatöö
 - https://docs.google.com/presentation/d/1dy4WZY9-amFs1SLXhjyp3hn9sgC6R1XiVZKb0keOdTw/edit?usp=sharing
