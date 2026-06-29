@@ -3,8 +3,11 @@
 ## Mida ma tegin
 - Minu roll sel nädalal oli oma alaülesandes teha RFM analüüsi.
 - Rakendasin RFM (Recency, Frequency, Monetary) meetodit UrbanStyle'i klientide segmenteerimiseks Pythonis:
+
 **Recency** — mitu päeva on möödunud viimasest ostust
+
 **Frequency** — ostude arv kokku
+
 **Monetary** — kogukulutus
 
 ### Peamised leiud & õpikohad / AI kasutamine
