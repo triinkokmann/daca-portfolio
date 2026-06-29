@@ -17,7 +17,7 @@
 - [Kadunud klientide makseviisid](week3_results_kadunud_kliendid_makseviisid.png)
 - [Kadunud kliendid kuude lõikes](week3_results_kadunud_kliendid_kuud.png)
 - [Kadunud kliendid registreerimisaja järgi](week3_results_kadunud_kliendid_regamisaeg.png)
-- [Kadunud kliendid linnade lõikes[(week3_results_kadunud_kliendid_linnad.png)
+- [Kadunud kliendid linnade lõikes](week3_results_kadunud_kliendid_linnad.png)
 - [Kadunud kliendid](week3_results_kadunud_kliendid.png)
 
 ## Tiimifailid
