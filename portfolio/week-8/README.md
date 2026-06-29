@@ -14,6 +14,5 @@
 ## Individuaalsed failid /individual
 - `pipeline.py` -- pipeline, ETL pipeline orkestreerija
 
-
 ## Tiimifailid /team
 - `week8_pipeline_demo.md` -- meeskonna tervilik pipeline demo ja tulemused
