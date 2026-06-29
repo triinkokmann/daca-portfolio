@@ -1,7 +1,9 @@
 # DACA Portfoolio
  
 **Programm:** Data Analyst Career Accelerator (DACA
+
 **Osaleja:** Triin Kokmann
+
 **Algus:** 28.04.2026
  
 ## Kirjeldus
