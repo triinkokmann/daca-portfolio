@@ -8,7 +8,7 @@
  
 ## Kirjeldus
  
-See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
+See repositoorium sisaldab minu DACA õppeprojekte.
 
 ## Projektid
  
@@ -61,5 +61,5 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
  
 ## Kontaktc
  
-- **GitHub:** [github.com/sinu-username](https://github.com/sinu-username)
+- **GitHub:** [github.com/sinu-username](https://github.com/triinkokmann)
 - **Email:** triin.kokmann@gmail.com
