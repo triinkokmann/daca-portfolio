@@ -33,8 +33,8 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - Arvutasin äri-KPI-d ja tegin varude auditi: tuvastatud ~40 laoanomaalia ✅
 
 ### Week 5–6: Visualiseerimine
-- Õppisin dashboard anatomy, data-ink ratio ja chart type selection põhimõtteid ✅
-- Ehitasin interaktiivse investori dashboardi Power BI / Plotly tööriistaga ✅
+- Õppisin dashboard anatoomiat, data-ink ratio ja chart type selection põhimõtteid ✅
+- Ehitasin interaktiivse investori dashboardi Power BI tööriistaga ✅
 - Rakendasin data storytelling raamistikku: Setup → Conflict → Resolution ✅
 
 ### Week 7: Python & Pandas — RFM segmenteerimine
