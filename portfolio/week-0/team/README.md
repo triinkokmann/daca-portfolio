@@ -19,4 +19,4 @@ Roll C: NotbookLMi seadistaja. Lõin meeskonna ühine NotebookLM notebooki, laad
 ## Failid
 - `individual/setup_screenshot.png` -- isikliku keskkonna screenshot
 - `team/week0_team_summary.md` -- viide meeskonnatööle
-- [`charter.md`]([link](https://github.com/sirja-hass/urbanstyle-toode/blob/b6ecd73bd64c2a39f52ecdbf207bbbd7f57cbe88/charter.md)) -- team charter
+- [`charter.md`](https://github.com/sirja-hass/urbanstyle-toode/blob/b6ecd73bd64c2a39f52ecdbf207bbbd7f57cbe88/charter.md) -- team charter
