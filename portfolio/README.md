@@ -61,5 +61,5 @@ See repositoorium sisaldab minu DACA õppeprojekte.
  
 ## Kontaktc
  
-- **GitHub:** [github.com/sinu-username](https://github.com/triinkokmann)
+- **GitHub:** [github.com/triinkokmann](https://github.com/triinkokmann)
 - **Email:** triin.kokmann@gmail.com
