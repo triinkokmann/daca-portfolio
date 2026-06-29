@@ -1,11 +1,11 @@
-# Nädal 7: Python & pandas - RFM kliendisegmenteerimine
+# Nädal 7: Python & pandas  – RFM kliendisegmenteerimine
 
 ## Mida ma tegin
 - Minu roll sel nädalal oli oma alaülesandes teha RFM analüüsi.
 - Rakendasin RFM (Recency, Frequency, Monetary) meetodit UrbanStyle'i klientide segmenteerimiseks Pythonis:
-**Recency** — mitu päeva on möödunud viimasest ostust
-**Frequency** — ostude arv kokku
-**Monetary** — kogukulutus
+- **Recency** — mitu päeva on möödunud viimasest ostust
+- **Frequency** — ostude arv kokku
+- **Monetary** — kogukulutus
 
 ### Peamised leiud & õpikohad / AI kasutamine
 - Kliendid on jaotatud 5 segmenti ostukäitumise põhjal
@@ -15,9 +15,8 @@
 - Tutvusin SQLi ja Pythoni erinevuste ning sarnasustega.
 - Claude aitas alaülesande jaoks koodi kirjutada ja sellest loogikast aru saada.
 
-## Individuaalsed failid /individual
-- `week7_rfm_segmenteerimine` -- minu alaülesande kood
+## Individuaalsed failid 
+- [Minu notebook](individual/week7_rfm_segmenteerimine.ipynb)
 
-
-## Tiimifailid /team
-- `week7_rfm_complete.ipynb` -- meeskonna tervilik notebook
+## Tiimifailid
+- [Meeskonna terviklik notebook](team/week7_rfm_complete.ipynb)

@@ -16,8 +16,8 @@
 - Kasutasin oma sisendi põhjal Claude'i diagrammi visualiseerimiseks, samuti pikemate päringute kirjutamise ja ülevaatamise abistamiseks ning kvaliteedikontrolliks. 
 
 ## Individuaalsed failid /individual
-- [Minu SQL päringud](week4_inventuuristatistika_aggregation.sql)
+- [Minu SQL päringud](individual/week4_inventuuristatistika_aggregation.sql)
 
 ## Tiimifailid
-- [Tiimi koondraport](week4_team_aggregation_report.md)
+- [Tiimi koondraport](team/week4_team_aggregation_report.md)
 - [Meeskonnatöö slaidid](https://docs.google.com/presentation/d/1d_Kse5csm-8SxNL4vULd8zEjzDnpZsU9GCmHDmwn1n0/edit?usp=sharing)
