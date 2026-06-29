@@ -1,4 +1,4 @@
-# Nädal 7: Python & pandas - RFM kliendisegmenteerimine
+# Nädal 7: Python & pandas  – RFM kliendisegmenteerimine
 
 ## Mida ma tegin
 - Minu roll sel nädalal oli oma alaülesandes teha RFM analüüsi.
@@ -15,9 +15,8 @@
 - Tutvusin SQLi ja Pythoni erinevuste ning sarnasustega.
 - Claude aitas alaülesande jaoks koodi kirjutada ja sellest loogikast aru saada.
 
-## Individuaalsed failid /individual
-- `week7_rfm_segmenteerimine` -- minu alaülesande kood
+## Individuaalsed failid 
+- [Minu notebook](individual/week7_rfm_segmenteerimine)
 
-
-## Tiimifailid /team
-- `week7_rfm_complete.ipynb` -- meeskonna tervilik notebook
+## Tiimifailid
+- [Meeskonna terviklik notebook](team/week7_rfm_complete.ipynb)
