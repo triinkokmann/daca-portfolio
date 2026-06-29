@@ -19,7 +19,7 @@
 - Claude aitas alaülesande jaoks koodi kirjutada ja sellest loogikast aru saada.
 
 ## Individuaalsed failid 
-- [Minu notebook](individual/week7_rfm_segmenteerimine)
+- [Minu notebook](individual/week7_rfm_segmenteerimine.ipynb)
 
 ## Tiimifailid
 - [Meeskonna terviklik notebook](team/week7_rfm_complete.ipynb)
