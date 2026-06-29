@@ -21,7 +21,7 @@
 - [Online tehingud](individual/week1_results_screenshot_online_tehingud.png)
 
 ## Tiimifailid
-- [Tiimi koondraport](team/week1_meeskonna_koondraport)
+- [Tiimi koondraport](team/week1_meeskonna_koondraport.md)
 
 ## Meeskonnatöö
 - https://docs.google.com/presentation/d/1dy4WZY9-amFs1SLXhjyp3hn9sgC6R1XiVZKb0keOdTw/edit?usp=sharing
