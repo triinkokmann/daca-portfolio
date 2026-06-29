@@ -26,7 +26,7 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 
 ### Week 3: SQL JOINid
 - Õppisin INNER JOIN, LEFT JOIN, RIGHT JOIN süntaksit ✅
-- Ühendamasin 3 tabelit ja analüüsisin TOP 20 klienti turunduskanalite lõikes ✅
+- Ühendasin 3 tabelit ja analüüsisin TOP 20 klienti turunduskanalite lõikes ✅
 
 ### Week 4: SQL Agregatsioon
 - Kasutasin GROUP BY, HAVING, COUNT, SUM, AVG, CTE päringuid ✅
