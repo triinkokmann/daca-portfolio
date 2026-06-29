@@ -30,7 +30,7 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 
 ### Week 4: SQL Agregatsioon
 - Kasutasin GROUP BY, HAVING, COUNT, SUM, AVG, CTE päringuid ✅
-- Arvutasin äri-KPI-d ja tegin varude auditi: tuvastatud ~40 laoanomaalia ✅
+- Arvutasin KPI-d ja tegin varude auditi: tuvastatud ~40 anomaaliat ✅
 
 ### Week 5–6: Visualiseerimine
 - Õppisin dashboard anatoomiat, data-ink ratio ja chart type selection põhimõtteid ✅
