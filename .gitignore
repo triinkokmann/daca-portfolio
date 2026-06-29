@@ -1,4 +1,5 @@
 .env
+
 # Süsteemifailid
 .DS_Store
 .vscode/
@@ -7,6 +8,7 @@
 __pycache__/
 *.pyc
 
-# Genereeritud väljund
-logs/
-output/
+.ipynb_checkpoints/
+venv/
+.venv/
+.vscode/
