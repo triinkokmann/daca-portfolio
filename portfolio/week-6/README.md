@@ -13,7 +13,7 @@
 - Eriliseks proovikiviks said KPI kaartide visualiseerimised - iga väike raam ja taust tulevad eri kohtadest. Murdsin läbi!
 - Kasutasin taas Claude'i ja mõneti ka ChatGPT'd juhendite tõlgendamiseks ja Power BI kasutamiseks. Põrgatasin pisut ka äritõlgendusi.
 
-  ## Individuaalsed failid
+## Individuaalsed failid
 - [Minu dashboardi Power BI fail](individual/Urbanstyle_week6_dashboard_Triin.pbix)
 - [Minu dashboardi screenshot](individual/week6_Tartu_dashboard_screenshot.png)
 - [Minu narratiiv](individual/week6_Tartu_narrative.md)
