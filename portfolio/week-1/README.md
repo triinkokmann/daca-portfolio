@@ -1,7 +1,7 @@
 # Nädal 1: SQL Basics – UrbanStyle'i andmete uurimine
 
 ## Mida ma tegin
-- Uurisin sales tabelit SQL päringutega
+- Uurisin `sales` tabelit SQL päringutega
 - Leidsin, et UrbanStyle’i müük on kahekanaliline ning e-pood mängib ettevõtte käibes olulist rolli, kuigi füüsilised poed moodustavad suurema osa tehingutest.
 - Osalesin meeskonna andmemaastiku koostamisel
 
