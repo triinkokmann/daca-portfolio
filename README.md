@@ -1,6 +1,6 @@
 # DACA Portfoolio
  
-**Programm:** Data Analyst Career Accelerator (DACA
+**Programm:** Data Analyst Career Accelerator (DACA)
 
 **Osaleja:** Triin Kokmann
 
