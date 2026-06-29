@@ -12,8 +12,8 @@
 - Turvalisus — API URL ja võti on .env failis — need ei lähe koodi ega GitHubi. Repos on ainult .env.example näidis tühjade väärtustega.
 - Claude aitas koodi kirjutada, läbi mõelda Pipeline'i struktuuri. Selgitas, miks logging.basicConfig peab kutsuma enne moodulite importimist (Python initsialiseerib logimise esimesel kutsel, hiljem ei saa enam muuta).
 
-## Individuaalsed failid /individual
+## Individuaalsed failid
 - [Pipeline](individual/pipeline.py)
 
-## Tiimifailid /team
+## Tiimifailid
 [Meeskonna tervilik pipeline'i demo ja tulemused](team/week8_pipeline_demo.md)
