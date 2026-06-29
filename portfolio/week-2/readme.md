@@ -1,12 +1,11 @@
 # Nädal 2: SQL ja tooteandmete puhastamine
 
 ## Mida ma tegin
-- Minu roll oli müügiandmete puhastamine (roll A).
-- Lõin sales_test tabeli
-- Uurisin sales_test tabelit SQL päringutega.
-- Selgus, et tabelis on 5116 duplikaatset rida ja 5008 probleemi.
-- Lahendasin probleemid ja kustutasin duplikaadid.
-- Koostasin SQL päringute abil sales_test tabeli puhastamisraporti.
+- Minu roll oli müügiandmete puhastamine (roll A)
+- Lõin `sales_test` tabeli, mida uurisin SQL päringutega
+- Selgus, et tabelis on 5116 duplikaatset rida ja 5008 probleemi
+- Lahendasin probleemid ja kustutasin duplikaadid
+- Koostasin SQL päringute abil `sales_test` tabeli puhastamisraporti
 - Osalesin meeskonna andmemaastiku koostamisel
 
 ## Peamised õpikohad
