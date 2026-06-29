@@ -1,4 +1,4 @@
-# Nädal 1: SQL Basics -- UrbanStyle'i andmete uurimine
+# Nädal 1: SQL Basics – UrbanStyle'i andmete uurimine
 
 ## Mida ma tegin
 - Uurisin sales tabelit SQL päringutega
