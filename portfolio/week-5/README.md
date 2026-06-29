@@ -22,14 +22,11 @@
 ## Äritõlgendus
 Müügitulu trend näitab selget hooajalist mustrit — suvi ja aasta lõpp on tugevaimad perioodid,  soovitaks selle põhjal laoseisu ja turundust vastavalt planeerida. 2024. aasta lõpuks oli UrbanStyle'il 3042 klienti, mis on arvestatav kliendibaas, millest me küll teame, et kõik ei ole aktiivsed ega oste sooritanud
 
-## Individuaalsed failid /individual
+## Individuaalsed failid
 - [Minu dashboardi Power BI fail](Urbanstyle_week5_dashboard_Triin.pbix)
 - [Minu dashboardi screenshot](urbanstyle_week5_dashboard_sceenshot.png)
 - [Minu SQL päringud](week5_ceo.sql)
-- `week5_disainiotsus.md` -- minu disainiotsuse kirjeldus
 
-## Tiimifailid /team
-- `week5_koondraport.md` -- meeskonnatöö koondraport
-
-## Meeskonnatöö
-- https://docs.google.com/presentation/d/1WJQjI_MESoemuIskkJp-3bl7uqwxKFfhvFuNlfggtp4/edit?usp=sharing -- meeskonna slaidid
+## Tiimifaili
+- [Tiimi koondraport](week5_koondraport.md)
+- [Meeskonnatöö slaidid](https://docs.google.com/presentation/d/1WJQjI_MESoemuIskkJp-3bl7uqwxKFfhvFuNlfggtp4/edit?usp=sharing)
