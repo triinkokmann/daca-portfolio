@@ -1,4 +1,4 @@
-# Nädal 3: SQL JOINs -- UrbanStyle'i andmete uurimine
+# Nädal 3: SQL JOINid
 
 ## Mida ma tegin
 - Minu roll sel nädalal oli leida kliendid ilma ostudeta ehk kadunud kliendid LEFT JOIN + NULL päringutega (rollb B).
@@ -9,19 +9,17 @@
 - Osalesin meeskonna andmemaastiku koostamisel
 
 ## Peamised õpikohad
-- Õppisin, kuidas ühendada JOINide abil tabeleid ja kuivõrd efektiivne see olla võib.
-- Sel nädalal sain palju turunduse vaatevinklist asju analüüsida ja see oli väga põnev!
+- Õppisin INNER JOIN, LEFT JOIN, RIGHT JOIN süntaksit ✅
+- Ühendasin 3 tabelit: `sales`, `customers` ja `products`
 
-## Individuaalsed failid /individual
-- `week3-ostudetakliendidB-joins.sql` -- minu SQL päringud
-- `week3_results_kadunud_kliendid_makseviisid.png`
-- `week3_results_kadunud_kliendid_kuud.png`
-- `week3_results_kadunud_kliendid_regamisaeg.png`
-- `week3_results_kadunud_kliendid_linnad.png`
-- `week3_results_kadunud_kliendid.png` -- minu tulemuste screenshotid
+## Individuaalsed failid
+- [Minu SQL päringud](week3-ostudetakliendidB-joins.sql)
+- [Kadunud klientide makseviisid](week3_results_kadunud_kliendid_makseviisid.png)
+- [Kadunud kliendid kuude lõikes](week3_results_kadunud_kliendid_kuud.png)
+- [Kadunud kliendid registreerimisaja järgi](week3_results_kadunud_kliendid_regamisaeg.png)
+- [Kadunud kliendid linnade lõikes[(week3_results_kadunud_kliendid_linnad.png)
+- [Kadunud kliendid](week3_results_kadunud_kliendid.png)
 
-## Tiimifailid /team
-- `week3_team_joins_report.md` -- tiimi koondraport
-
-## Meeskonnatöö
-- https://docs.google.com/presentation/d/1_XV9rattaz3KDWFpchCHEJLrqbvXODSJJUfl8Y793Mg/edit?usp=sharing -- meeskonna slaidid
+## Tiimifailid
+- [Tiimi koondraport](week3_team_joins_report.md)
+- [Meeskonnatöö slaidid](https://docs.google.com/presentation/d/1_XV9rattaz3KDWFpchCHEJLrqbvXODSJJUfl8Y793Mg/edit?usp=sharing)
