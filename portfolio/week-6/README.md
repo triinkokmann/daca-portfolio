@@ -21,4 +21,4 @@
 
 ## Tiimifailid
 - [Tiimi koondraport](week6_team_combined_view.md)
-- [Meeskonnatöö slaidid(https://docs.google.com/presentation/d/1yxUbckxenA22lvdZTj7cDzkRZiqxVss4P9S3SuMcmtY/edit?usp=sharing)
+- [Meeskonnatöö slaidid](https://docs.google.com/presentation/d/1yxUbckxenA22lvdZTj7cDzkRZiqxVss4P9S3SuMcmtY/edit?usp=sharing)
