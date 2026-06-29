@@ -1,4 +1,4 @@
-# Nädal 5: Visualiseerimise disain 
+# Nädal 5: visualiseerimise disain 
 
 ## Mida ma tegin
 - Minu roll sel nädalal oli visualiseerida Power BI-s CEO dashboard.
@@ -7,16 +7,25 @@
 - Joondiagrammile visualiseerisin US-i perioodi müügitulu trendi, mis näitab selgelt kuude kaupa kasvu.
 - Lisasin ka sliceri, kust CEO saab soovitud perioodi kohta andmeid vaadata, et muuta graafik interaktiivsemaks. 
 
-
 ## Peamised õpikohad / kuidas kasutasin AI-d
-- Omandasin baasteadmised Power BI kasutamisest.
-- Kasutasin Claude'i juhendite tõlgendamiseks ja Power BI kasutamiseks, enamasti suhteliselt edukalt.
+- Omandasin baasteadmised Power BI kasutamisest: data-ink ratio ja chart type selection põhimõtteid
+- Kasutasin Claude'i juhendite tõlgendamiseks ja Power BI kasutamiseks.
 - Lisaks kasutasin Power BI juhiste jaoks YouTube'i.
 
+## Disainiotsus selgitus
+- Paigutasin KPI kaardid dashboardi ülaossa, et silm need kõigepealt haaraks.
+- KPI kaardid kajastavad selgelt ja arusaadavalt müügitulu, klientide arvu ning kasvu võrreldes 2023. aastaga.
+- Valisin joondiagrammi, mis näitab 2023-2024 perioodi tervikuna, sest see näitab CEO-le kõige paremini kasvu trajektoori.
+- Lisasin sliceri, kust CEO saab ise periood valida enne investori kohtumist. See annab dashboard'ile "live tööriista" tunde, mitte staatilise raporti.
+- Dashboardi värvid on valitud kooskõlas Urbanstyle’i CVI-ga.
+
+## Äritõlgendus
+Müügitulu trend näitab selget hooajalist mustrit — suvi ja aasta lõpp on tugevaimad perioodid,  soovitaks selle põhjal laoseisu ja turundust vastavalt planeerida. 2024. aasta lõpuks oli UrbanStyle'il 3042 klienti, mis on arvestatav kliendibaas, millest me küll teame, et kõik ei ole aktiivsed ega oste sooritanud
+
 ## Individuaalsed failid /individual
-- `Urbanstyle_week5_dashboard_Triin.pbix` -- minu dashboard Power BI-s
-- `urbanstyle_week5_dashboard_sceenshot.png` -- minu dashboardi screenshot
-- `week5_ceo.sql` -- minu SQL päringud
+- [Minu dashboardi Power BI fail](Urbanstyle_week5_dashboard_Triin.pbix)
+- [Minu dashboardi screenshot](urbanstyle_week5_dashboard_sceenshot.png)
+- [Minu SQL päringud](week5_ceo.sql)
 - `week5_disainiotsus.md` -- minu disainiotsuse kirjeldus
 
 ## Tiimifailid /team
