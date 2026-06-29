@@ -13,11 +13,11 @@
 - Eriliseks proovikiviks said KPI kaartide visualiseerimised - iga väike raam ja taust tulevad eri kohtadest. Murdsin läbi!
 - Kasutasin taas Claude'i ja mõneti ka ChatGPT'd juhendite tõlgendamiseks ja Power BI kasutamiseks. Põrgatasin pisut ka äritõlgendusi.
 
-## Individuaalsed failid
-- [Minu dashboardi Power BI fail](portfolio/week-6/individual/Urbanstyle_week6_dashboard_Triin.pbix)
-- [Minu dashboardi screenshot](week6_Tartu_dashboard_screenshot.png)
-- [Minu narratiiv](portfolio/week-6/individual/week6_Tartu_narrative.md)
-- [Minu executive summary](portfolio/week-6/individual/week6_executive_summary.md)
+  ## Individuaalsed failid
+- [Minu dashboardi Power BI fail](individual/Urbanstyle_week6_dashboard_Triin.pbix)
+- [Minu dashboardi screenshot](individual/week6_Tartu_dashboard_screenshot.png)
+- [Minu narratiiv](individual/week6_Tartu_narrative.md)
+- [Minu executive summary](individual/week6_executive_summary.md)
 
 ## Tiimifailid
 - [Tiimi koondraport](week6_team_combined_view.md)
