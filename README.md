@@ -59,7 +59,7 @@ See repositoorium sisaldab minu DACA õppeprojekte.
 - **Visualiseerimine:** Power BI 
 - **Tööriistad:** Git, GitHub, VS Code
  
-## Kontaktc
+## Kontakt
  
 - **GitHub:** [github.com/triinkokmann](https://github.com/triinkokmann)
 - **Email:** triin.kokmann@gmail.com
