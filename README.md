@@ -1,16 +1,24 @@
-# DACA Portfoolio
- 
-**Programm:** Data Analyst Career Accelerator (DACA)
+# DACA Portfoolio  – Triin Kokmann 
 
-**Osaleja:** Triin Kokmann
+See repositoorium sisaldab minu Data Analyst Career Accelerator (DACA) õppeprojekte. 
 
-**Algus:** 28.04.2026
- 
-## Kirjeldus
- 
-See repositoorium sisaldab minu DACA õppeprojekte.
+Programmi kestvus: aprill - juuli 2026
 
-## Projektid
+## Põhioskused
+ 
+- **SQL:** andmete kaardistamine ja puhastamine algusest lõpuni — JOIN-id, agregatsioonid, CTE-d ja aknafunktsioonid
+- **Visualiseerimine:** Power BI dashboard'id KPI-de ja andmelugudega, fookusega selgetel ärijäreldusitel
+- **Python:** andmetöötlus pandas'ega, visualiseerimine Plotly'ga, praktilise näitena RFM-kliendisegmenteerimine
+- **Andmetöötlus:** Supabase API päringud, ETL-pipeline'i ehitus koos veakäsitluse ja automatiseerimisega
+- **Tööriistad:** Git, GitHub, VS Code, Supabase
+
+## Valitud projektid
+
+1. [ETL-pipeline automatiseerimine](week-8/README.md) — kirjutasin orkestraatori, mis käivitab meeskonna Extract → Transform → Visualize → Export töövoo ühe käsuga, koos logimise ja veakäsitlusega
+2. [RFM-kliendisegmenteerimine](week-7/README.md) — segmenteerisin Pythonis 2400+ klienti ostukäitumise põhjal ja koostasin igale segmendile turundussoovitused
+3. [Kadunud klientide analüüs](week-3/README.md) — tuvastasin SQL JOIN-idega, et 19% kliendibaasist pole kunagi ostu sooritanud, ja analüüsisin nende mustrid tagasivõitmiskampaania jaoks
+
+## Kõik projektid
  
 ### Week 0: Onboarding
 - GitHub seadistamine ✅
@@ -51,13 +59,6 @@ See repositoorium sisaldab minu DACA õppeprojekte.
 
 ### Week 10: Portfoolio lõpetamine
 - Tulemas
- 
-## Oskused
- 
-- **SQL:** PostgreSQL, Supabase
-- **Python:** pandas, plotly 
-- **Visualiseerimine:** Power BI 
-- **Tööriistad:** Git, GitHub, VS Code
  
 ## Kontakt
  
