@@ -2,6 +2,12 @@
 
 See repositoorium sisaldab minu Data Analyst Career Accelerator (DACA) õppeprojekte. 
 
+## Kursusest
+
+DACA (Data Analyst Career Accelerator) on 10-nädalane intensiivprogramm karjäärivahetajatele. Õpe toimis spiraalina — iga nädal lisasime ühe uue kihi peale eelmisele: SQL-ist visualiseerimiseni, sealt Pythoni ja ETL-pipeline'ini. Töötasime simulatsiooniettevõtte UrbanStyle.ltd andmetega, kus päris äriprobleemid (duplikaadid, puuduvad väärtused, kliendikadu) olid meie tooraine.
+
+Grupitööd olid kursuse selgroog — igal nädalal täitis meeskond erinevaid rolle (andmete uurimine, puhastamine, visualiseerimine, automatiseerimine) ja rollid roteerusid, nii et iga osaleja puututas iga tüüpi tööga. See portfoolio koondab minu individuaalse panuse igalt nädalalt.
+
 Programmi kestvus: aprill - juuli 2026
 
 ## Põhioskused
