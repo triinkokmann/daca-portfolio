@@ -27,8 +27,9 @@ Programmi kestvus: aprill - juuli 2026
 ## Kõik projektid
  
 ### Week 0: Onboarding ✅
-- GitHub seadistamine 
-- Supabase seadistamine 
+- GitHubi seadistamine 
+- Supabase seadistamine
+- VS Code'i seadistamine 
  
 ### Week 1: SQL Põhitõed ✅
 - Õppisin SQL süntaksi aluseid: SELECT, WHERE, ORDER BY, LIMIT, DISTINCT 
