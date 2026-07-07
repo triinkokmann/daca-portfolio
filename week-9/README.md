@@ -4,6 +4,12 @@
 - Minu sellenädalane roll oli A ehk palkamisjuht (hiring manager).
 - Koostasin meeskonnakaaslase portfooliole peer review CV ja LinkedIn vaatepunktist.         
 - Analüüsisin portfooliot: tõin välja tugevused ja esitasin parandusettepanekud. Andsin värbamissoovituse.
+- Koostasin värbamisjuhendi peatüki osa palkamisjuhi rollist lähtuvalt. 
+
+## Peamised leiud & õpikohad
+- Sellenädalane ülesanne pani mind esimest korda vaatama andmeanalüütiku tööd tööandja pilguga. 
+- Koostasin värbamisjuhendi peatüki ja hindasin kaaslase portfooliot palkamisjuhi rollis — see aitas mul mõista, mida CV ja LinkedIn tegelikult peavad näitama.
+- Kõige olulisem õppetund: tugev portfoolio räägib ärimõjust, mitte ainult tehnikast.
 
 ## AI kasutamine
 Kontrollisin AI abil üle, kas meeskonnakaaslase portfoolio struktuur vastab nõuetele. 
