@@ -5,7 +5,6 @@
 - Ühise otsusena grupis otsustasime visualiseerimiseks kasutada UrbanStyle'i (US) andmeid perioodil 2023-2024, kuna 2025. ja 2026. aasta andmed on ebatäielikud ja moonutaksid ebamõistlikult negatiivselt UrbanStyle'i likviidsust. 
 - Lõin KPI kaardid, mis näitavad, kui palju US valitud perioodil müügitulu teenis, mitu klienti neil perioodi lõpuks oli ning kui suur oli kasv.
 - Joondiagrammile visualiseerisin US-i perioodi müügitulu trendi, mis näitab selgelt kuude kaupa kasvu.
-- Lisasin ka sliceri, kust CEO saab soovitud perioodi kohta andmeid vaadata, et muuta graafik interaktiivsemaks. 
 
 ## Peamised õpikohad 
 - Omandasin baasteadmised Power BI kasutamisest: data-ink ratio ja chart type selection põhimõtteid
