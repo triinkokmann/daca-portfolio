@@ -16,7 +16,7 @@ API URL ja võti on .env failis — need ei lähe koodi ega GitHubi. Repos on ai
 ## Äriline väärtus
 Marko ei pea iganädalast müügiülevaadet enam käsitsi koostama — pipeline käivitub ühe käsuga ja tulemus on kohe analüüsiks valmis. Veakäsitlus ja CSV fallback tähendavad, et aruanne valmib ka siis, kui Supabase API on hetkeks maas. See säästab hinnanguliselt 2–3 tundi nädalas käsitööd.
 
-## AI kasutamine
+## Kuidas kasutasin AI-d?
 Claude aitas koodi kirjutada, läbi mõelda Pipeline'i struktuuri. Selgitas, miks logging.basicConfig peab kutsuma enne moodulite importimist (Python initsialiseerib logimise esimesel kutsel, hiljem ei saa enam muuta).
 
 ## Individuaalsed failid
