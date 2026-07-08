@@ -62,3 +62,6 @@ Portfoolio on andmeanalüütiku kandidaadi kõige ausam töönäidis. See näita
 ### Üllatav avastus
 
 Tugevust ei näita projektide hulk, vaid kandidaadi võime põhjendada oma arengut, individuaalset panust ja tehnilisi valikuid. Selge individuaalse ning meeskondliku töö eristus muudab kogu tiimi panuse paremini jälgitavaks.
+
+## Meeskonnatöö
+[Meeskonna slaidid](https://docs.google.com/presentation/d/1GSq7wQdEn6C9q6lRkRIC-M5_gyn79VYp1D46XHlRKlQ/edit?usp=sharing)
