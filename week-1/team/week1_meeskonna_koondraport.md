@@ -1,4 +1,8 @@
-## MEESKOND: TOODE NÄDAL: 1 | TEGELANE: Toomas Kask ANDMEMAASTIK (Data Landscape)
+## Nädal 1: UrbanStyle'i andmemaastik
+
+**Meeskond:** Toode
+
+**Tegelane:** Toomas Kask
 
 ## Kokkuvõte
 - Sales (tehingud), Jörgen: 15234 rida, 12 veergu, ~10% klientidest ei ole registreerinud kliendisüsteemi
