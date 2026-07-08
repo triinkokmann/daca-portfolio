@@ -18,7 +18,7 @@
 - See on tooteportfelli otsuste alus: mida lõpetada, mida laiendada, kuhu turunduseelarve suunata.
 
 ## Kuidas kasutasin AI-d?
-- Kasutasin oma sisendi põhjal Claude'i diagrammi visualiseerimiseks, samuti pikemate päringute kirjutamise ja ülevaatamise abistamiseks ning kvaliteedikontrolliks.
+Kasutasin oma sisendi põhjal Claude'i diagrammi visualiseerimiseks, samuti pikemate päringute kirjutamise ja ülevaatamise abistamiseks ning kvaliteedikontrolliks.
 
 ## Soovitused 
 Soovitan UrbanStyle'il vaada üle ja kitsendada tooteportfelli ning turunduskampaaniates panustada hästi müüvatele kategooriatele, jalanõud ja meesteriided. 
