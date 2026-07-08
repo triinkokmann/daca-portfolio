@@ -3,7 +3,7 @@
 Seadistasime isikliku töö- ja arenduskeskkonna ning lõime meeskonna ühise GitHubi repo, Supabase'i projekti, NotebookLMi tööruumi ja Team Charteri.
 
 ## Minu roll
-Roll C: NotbookLMi seadistaja. Lõin meeskonna ühine NotebookLM notebooki, laadisin üles 4 CORE RAG faili ja genereerisin Audio Overview.
+Roll C: NotbookLMi seadistaja. Lõin meeskonna ühise NotebookLM notebooki, laadisin üles 4 CORE RAG faili ja genereerisin Audio Overview.
 
 # UrbanStyle.ltd Marketing Toode
    ## Meeskonnaliikmed
