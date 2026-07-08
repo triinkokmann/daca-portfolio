@@ -2,7 +2,7 @@
 
 **Meeskond:** Toode
 
-**Tegelane:** Toomas Kask
+**Tegelane:** Toomas Kask (IT direktor)
 
 
 ## Peamised leiud                                           
