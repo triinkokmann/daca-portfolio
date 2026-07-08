@@ -20,7 +20,7 @@ Marko ei pea iganädalast müügiülevaadet enam käsitsi koostama — pipeline 
 Claude aitas koodi kirjutada, läbi mõelda Pipeline'i struktuuri. Selgitas, miks logging.basicConfig peab kutsuma enne moodulite importimist (Python initsialiseerib logimise esimesel kutsel, hiljem ei saa enam muuta).
 
 ## Individuaalsed failid
-- [Minu automatiseerimisskript ehk pipeline](individual/pipeline.py)
+[Minu automatiseerimisskript ehk pipeline](individual/pipeline.py)
 
 ## Tiimifailid
 [Meeskonna tervilik pipeline'i demo ja tulemused](team/week8_pipeline_demo.md)
