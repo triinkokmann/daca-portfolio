@@ -26,5 +26,5 @@
 - [Kadunud kliendid](individual/week3_results_kadunud_kliendid.png)
   
 ## Tiimifailid
-- [Tiimi koondraport](week3_team_joins_report.md)
+- [Tiimi koondraport](team/week3_team_joins_report.md)
 - [Meeskonnatöö slaidid](https://docs.google.com/presentation/d/1_XV9rattaz3KDWFpchCHEJLrqbvXODSJJUfl8Y793Mg/edit?usp=sharing)
