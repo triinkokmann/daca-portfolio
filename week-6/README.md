@@ -8,9 +8,14 @@
 - Joondiagrammile visualiseerisin US-i perioodi müügitulu trendi, mis näitab selgelt kuude kaupa kasvu.
 - Lisasin ka sliceri, kust CEO saab soovitud perioodi kohta andmeid vaadata, et muuta graafik interaktiivsemaks. 
 
-## Peamised õpikohad / kuidas kasutasin AI-d
+## Peamised õpikohad  
 - Arendasin teadmisi ja oskusi Power BI kasutamisel. Suutsin meelde jätta, kust miskit muuta saab.
 - Eriliseks proovikiviks said KPI kaartide visualiseerimised - iga väike raam ja taust tulevad eri kohtadest. Murdsin läbi!
+
+## Äriline väärtus
+Dashboard muudab andmed lihtsasti mõistetavaks. Tartu kaupluse juhil pole aega SQL-päringuid jooksutada — ta vajab ühte vaadet, kust on kohe näha, kas käive kasvab, millal on tipud ja millal mõõnad. Interaktiivne slicer tähendab, et küsimusele "kuidas läks eelmisel kvartalis?" saab vastuse sekunditega, mitte tunni pärast. See on vahe andmete omamise ja andmete kasutamise vahel.
+
+## Kuidas kasutasin AI-d?
 - Kasutasin taas Claude'i ja mõneti ka ChatGPT'd juhendite tõlgendamiseks ja Power BI kasutamiseks. Põrgatasin pisut ka äritõlgendusi.
 
 ## Individuaalsed failid
