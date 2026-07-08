@@ -6,7 +6,7 @@
 
 ## TOP 5 koondnumbrit Kristile                         
 **1. CEO dashboard (Triin)** — €857K müügitulu                   
-**2.Marketing dashboard (Sirja)** — €2,71 mln on kogukäive                 
+**2. Marketing dashboard (Sirja)** — €2,71 mln on kogukäive                 
 **3. Operations dashboard (Jörgen)**  — 377K tootega laovaru  
 **4. Investor dashboard (Tuuli)** — 19% kasvas UrbanStyle aastas (2023 vs 2024)            
                                                          
