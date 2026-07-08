@@ -1,6 +1,7 @@
 ## Nädal 2: Andmekvaliteedi koondraport
 
 **Meeskond:** Toode
+
 **Tegelane:** Toomas Kask
 
 
