@@ -19,5 +19,5 @@
 - [Minu SQL päringud](week2_sales_cleaning.sql)
 
 ## Tiimifailid
-- [Tiimi koondraport](week2_team_cleaning_report.md)
+- [Tiimi koondraport](team/week2_team_cleaning_report.md)
 - [Meeskonnatöö slaidid](https://docs.google.com/presentation/d/1A8KvN7d0f7EDag7m9cagzEe5bE2fw8dw/edit?usp=sharing&ouid=114154652828264470790&rtpof=true&sd=true)
