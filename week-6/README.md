@@ -18,6 +18,8 @@ Dashboard muudab andmed lihtsasti mõistetavaks. Tartu kaupluse juhil pole aega 
 ## Kuidas kasutasin AI-d?
 - Kasutasin taas Claude'i ja mõneti ka ChatGPT'd juhendite tõlgendamiseks ja Power BI kasutamiseks. Põrgatasin pisut ka äritõlgendusi.
 
+![Tartu kaupluse dashboard](individual/week6_Tartu_dashboard_screenshot.png)
+
 ## Individuaalsed failid
 - [Minu dashboardi Power BI fail](individual/Urbanstyle_week6_dashboard_Triin.pbix)
 - [Minu dashboardi screenshot](individual/week6_Tartu_dashboard_screenshot.png)
