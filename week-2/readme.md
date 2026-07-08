@@ -16,10 +16,10 @@
 5116 duplikaatset rida tähendab, et müügiraport näitas valet ehk liiga suurt käivet. Kui keegi teeks ärisoovituse selle andmestiku põhjal, planeeriks ta laovaru, hinnakirja või kampaaniat vale aluse pealt. 
 
 ## Kuidas ma kasutasin AI-d?
-- Kasutasin AI-d päringute täpsustamiseks ja järelduste ideede põrgatamiseks. Olen avastanud, et Claude on selleks parim.
+Kasutasin AI-d päringute täpsustamiseks ja järelduste ideede põrgatamiseks. Olen avastanud, et Claude on selleks parim.
 
 ## Individuaalsed failid
-- [Minu SQL päringud](individual/week2_sales_cleaning.sql)
+- [Minu SQL päringud](individual/week2_A_sales_cleaning.sql)
 
 ## Tiimifailid
 - [Tiimi koondraport](team/week2_team_cleaning_report.md)
