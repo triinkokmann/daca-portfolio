@@ -27,5 +27,5 @@ Dashboard muudab andmed lihtsasti mõistetavaks. Tartu kaupluse juhil pole aega 
 - [Minu executive summary](individual/week6_executive_summary.md)
 
 ## Tiimifailid
-- [Tiimi koondraport](week6_team_combined_view.md)
+- [Tiimi koondraport](team/week6_team_combined_view.md)
 - [Meeskonnatöö slaidid](https://docs.google.com/presentation/d/1yxUbckxenA22lvdZTj7cDzkRZiqxVss4P9S3SuMcmtY/edit?usp=sharing)
