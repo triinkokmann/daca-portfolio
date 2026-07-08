@@ -23,6 +23,8 @@
 ## Äriline väärtus
 Müügitulu trend näitab selget hooajalist mustrit — suvi ja aasta lõpp on tugevaimad perioodid,  soovitaks selle põhjal laoseisu ja turundust vastavalt planeerida. 2024. aasta lõpuks oli UrbanStyle'il 3042 klienti, mis on arvestatav kliendibaas, millest me küll teame, et kõik ei ole aktiivsed ega oste sooritanud
 
+![CEO dashboard](individual/urbanstyle_week5_dashboard_sceenshot.png)
+
 ## Individuaalsed failid
 - [Minu dashboardi Power BI fail](individual/Urbanstyle_week5_dashboard_Triin.pbix)
 - [Minu dashboardi screenshot](individual/urbanstyle_week5_dashboard_sceenshot.png)
