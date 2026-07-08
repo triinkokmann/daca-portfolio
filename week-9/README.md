@@ -11,7 +11,7 @@
 - Koostasin värbamisjuhendi peatüki ja hindasin kaaslase portfooliot palkamisjuhi rollis — see aitas mul mõista, mida CV ja LinkedIn tegelikult peavad näitama.
 - Kõige olulisem õppetund: tugev portfoolio räägib ärimõjust, mitte ainult tehnikast.
 
-## AI kasutamine
+## Kuidas kasutasin AI-d?
 Kontrollisin AI abil üle, kas meeskonnakaaslase portfoolio struktuur vastab nõuetele. 
 
 ## Individuaalsed failid
