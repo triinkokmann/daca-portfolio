@@ -1,4 +1,8 @@
-MEESKOND: TOODE |  NÄDAL: 2  |  TEGELANE: Toomas Kask    │ ANDMEKVALITEEDI KOONDRAPORT  
+## Nädal 2: Andmekvaliteedi koondraport
+
+**Meeskond:** Toode
+**Tegelane:** Toomas Kask
+
 
 ## PEAMISED LEIUD:                                             
 1. Müügiandmete puhastaja, Triin: leitud 5508 probleemi —  korduvad sale_id väärtused (4018), NULL customer_id (1487), tulevikukuuäpäevad (8) eemaldatud. Alles jäi 988 NULL sales_id ehk külalisostu.    
