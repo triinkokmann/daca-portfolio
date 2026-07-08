@@ -16,5 +16,5 @@ Poe kliendid teevad rohkem korduvoste. Ligi iga viies klient on kadunud klient.
 ## Milline otsus muutuks?                                       
 Suunata suuremad investeeringud Tallinna ja Tartu kauplustesse, kasvatada online kanalite nähtavust väiksemates kohtades. Planeerida segmentidele sihitud kampaaniaid kadunud klientide tagasivõitmiseks.
 
-## Meeskonnatöö slaidid
+## Meeskonnatöö 
 [Meeskonnatöö slaidid](https://docs.google.com/presentation/d/1_XV9rattaz3KDWFpchCHEJLrqbvXODSJJUfl8Y793Mg/edit?usp=sharing)
