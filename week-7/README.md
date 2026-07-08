@@ -7,12 +7,20 @@
 - **Frequency** — ostude arv kokku
 - **Monetary** — kogukulutus
 
-### Peamised leiud & õpikohad / AI kasutamine
-- Kliendid on jaotatud 5 segmenti ostukäitumise põhjal
+### Peamised leiud & õpikohad
+- Astusin ühe jalaga Pythoni maailma - installisin töövahendid ning nuusutasin koodikirjutamist. 
+- RFM analüüsis on kliendid jaotatud 5 segmenti ostukäitumise põhjal
 - RFM meetod võimaldab sihtida iga segmenti erineva kampaaniaga — nt VIP Champions lojaalsusprogramm, Lost segmendile taasaktiveerimiskampaania
 - Skoorid arvutati kvantiilide põhjal, mis tagab võrdse jaotuse segmentide vahel.
-- Astusin ühe jalaga Pythoni maailma - installisin töövahendid ning nuusutasin koodikirjutamist. 
 - Tutvusin SQLi ja Pythoni erinevuste ning sarnasustega.
+
+## Äriline väärtus
+RFM jagab kliendid gruppidesse ostukäitumise järgi — VIP-kliendile sobib lojaalsusprogramm, kadunud kliendile taasaktiveerimiskampaania, uuele kliendile sisseelamise tugi. Segmenteerimine aitab, et iga euro turunduseelarves läheks sinna, kus sellel on kõige suurem mõju.
+
+## Soovitused
+Lõpetada "kõigile kõike" lähenemisega turunduses ja suunata eelarve segmentide kaupa — mõõta tulemust segmendipõhiselt, mitte ainult kogukäibes.
+
+## Kuidas kasutasin AI-d?
 - Claude aitas alaülesande jaoks koodi kirjutada ja sellest loogikast aru saada.
 
 ## Individuaalsed failid 
