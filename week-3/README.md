@@ -10,6 +10,9 @@
 - Õppisin INNER J OIN, LEFT JOIN, RIGHT JOIN süntaksit 
 - Ühendasin 3 tabelit: `sales`, `customers` ja `products`
 
+## Äriline väärtus
+19% klientidest pole kunagi ostu sooritanud — see on otsene tulupotentsiaal, mis seisab kasutamata. 599 "kadunud" klienti on juba usaldanud ettevõtet piisavalt, et registreeruda, kuid midagi katkestas ostutee. August 2023 ja mai 2024 kliendikao tipud viitavad konkreetsetele sündmustele (kampaania, konkurent, tooteprobleem) — see on uurimist väärt, mitte lihtsalt statistika. Tagasivõitmiskampaania isegi 20% neist klientidest on odavam kui samapalju uusi kliente hankida.
+
 ## Soovitused turundusjuht Annale
 - Segmenteeri kadunud kliendid: uuri, mida ütleb vanemate kontaktide kohta ettevõtte GDPR poliitika
 - Sea eesmärk, mitu % soovid klientidst "päästa"
