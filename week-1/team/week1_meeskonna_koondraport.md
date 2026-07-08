@@ -19,5 +19,5 @@ Kliendiinfo puudub **`sales`** tabelis 1487 kliendil ja **`customers`** tabelis 
 ## Suurim üllatus
 Suur osa kliendibaasist ei ole puuduvate kontaktandmete tõttu turundustegevusteks kättesaadav.
 
-## Meeskonna slaidid
-[Nädal 1 slaidid](https://docs.google.com/presentation/d/1dy4WZY9-amFs1SLXhjyp3hn9sgC6R1XiVZKb0keOdTw/edit?slide=id.g3ddb8b9f226_0_140#slide=id.g3ddb8b9f226_0_140)
+## Meeskonnatöö
+[Meeskonnatöö slaidid](https://docs.google.com/presentation/d/1dy4WZY9-amFs1SLXhjyp3hn9sgC6R1XiVZKb0keOdTw/edit?slide=id.g3ddb8b9f226_0_140#slide=id.g3ddb8b9f226_0_140)
