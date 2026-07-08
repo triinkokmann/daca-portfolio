@@ -1,6 +1,7 @@
 ## Nädal 3: meeskona JOIN analüüs
 
 **Meeskond:** Toode
+
 **Tegelane:** Anna Mets (turundusjuht)
 
 ##  Peamised leiud                                          
