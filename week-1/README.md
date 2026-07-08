@@ -9,6 +9,9 @@
 - Õppisin SQL süntaksi aluseid: SELECT, COUNT, WHERE, ORDER BY, LIMIT, DISTINCT 
 - Uurisin UrbanStyle'i sales tabelit: tuvastatud duplikaadid ja puuduvad väärtused IS NULL abil
 
+## Äriline väärtus
+Andmete uurimine on iga analüüsi esimene samm — ilma selleta võib juht teha otsuseid vigaste arvude põhjal. See andis ülevaate hetkeseisust, mida järgmiste nädalatega puhastama ja parandama hakata.
+
 ## Individuaalsed failid
 - [SQL päringud](individual/week1_sales_exploration.sql)
 - [Ülevaade](individual/week1_results_screenshot_ylevaade.png)
