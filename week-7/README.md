@@ -7,7 +7,7 @@
 - **Frequency** — ostude arv kokku
 - **Monetary** — kogukulutus
 
-### Peamised leiud & õpikohad
+## Peamised leiud & õpikohad
 - Astusin ühe jalaga Pythoni maailma - installisin töövahendid ning nuusutasin koodikirjutamist. 
 - RFM analüüsis on kliendid jaotatud 5 segmenti ostukäitumise põhjal
 - RFM meetod võimaldab sihtida iga segmenti erineva kampaaniaga — nt VIP Champions lojaalsusprogramm, Lost segmendile taasaktiveerimiskampaania
