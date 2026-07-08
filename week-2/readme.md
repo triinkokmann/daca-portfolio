@@ -19,7 +19,7 @@
 - Kasutasin AI-d päringute täpsustamiseks ja järelduste ideede põrgatamiseks. Olen avastanud, et Claude on selleks parim.
 
 ## Individuaalsed failid
-- [Minu SQL päringud](week2_sales_cleaning.sql)
+- [Minu SQL päringud](individual/week2_sales_cleaning.sql)
 
 ## Tiimifailid
 - [Tiimi koondraport](team/week2_team_cleaning_report.md)
