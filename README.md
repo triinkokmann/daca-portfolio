@@ -66,8 +66,9 @@ Programmi kestvus: aprill - juuli 2026
 - Koostasin andmeanalüütiku värbamisjuhendi peatüki: ametinõuded, hindamiskriteeriumid, 30-60-90 päeva plaan 
 - Õppisin, mida tööandja portfoolios tegelikult otsib: ärimõju > tehniline nimekiri 
 
-### Week 10: Portfoolio viimistlemine
-- Tulemas
+### Week 10: Portfoolio viimistlemine ✅
+- Viimistlesin oma portfooliot
+- Koostasime tiimiga 7-minutilise lõpuesitluse UrbanStyle'i juhatusele, kus minu roll oli tutvustada tiimi tehtud visuaale ehk dashboarde.
  
 ## Kontakt
  
