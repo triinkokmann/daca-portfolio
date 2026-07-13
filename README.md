@@ -73,4 +73,4 @@ Programmi kestvus: aprill - juuli 2026
 ## Kontakt
  
 - **GitHub:** [github.com/triinkokmann](https://github.com/triinkokmann)
-- **Email:** triin.kokmann@gmail.com
+- **Email:** triinkokmann@gmail.com
